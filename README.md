@@ -1,0 +1,1 @@
+Con base en un archivo que contiene una receta, obtendrá los ingredientes, la preparación, y contestará las preguntas que aparezcan al final del documento. No se recomienda su uso para nada, ya que es un proyecto de clases.
